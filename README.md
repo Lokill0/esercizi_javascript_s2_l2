@@ -1,0 +1,2 @@
+# esercizi_javascript_s2_l2
+esercitazione javascript giornaliera
